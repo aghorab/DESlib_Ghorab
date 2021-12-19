@@ -103,6 +103,7 @@ print('Classification accuracy OLA: ', ola_score)
 print('Classification accuracy MCB: ', mcb_score)
 print('Classification accuracy META-DES: ', meta_score)
 
+
 cmap = get_cmap('Dark2')
 colors = [cmap(i) for i in np.linspace(0, 1, 7)]
 labels = ['RF', 'Stacked', 'KNORA-U', 'KNORA-E', 'DESP', 'OLA', 'MCB',
