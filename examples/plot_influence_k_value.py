@@ -3,6 +3,7 @@
 # Author: Rafael Menelau Oliveira e Cruz <rafaelmenelau@gmail.com>
 #
 # License: BSD 3 clause
+
 """
 ====================================================================
 Measuring the influence of the region of competence
